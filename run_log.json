@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.1",
+  "mode": "improved",
+  "source": "dashscope",
+  "prompt_version": "p1-v1",
+  "generation_params": {
+    "seed": 42,
+    "temperature": 0.2,
+    "top_p": 0.9,
+    "max_tokens": 2048
+  },
+  "budget": {
+    "per_case_limit": 3,
+    "total_limit": 10000,
+    "total_calls": 8
+  },
+  "run": {
+    "status": "completed",
+    "start_time": "2026-11-07T17:11:42+08:00",
+    "end_time": "2026-11-07T17:13:35+08:00",
+    "elapsed_sec": 113.285,
+    "input_file": "generated_cases.json",
+    "input_sha256": "103f9169bde5fe9037b2319df874427cfee713b3fa9a2375ffb4e5d8bd9d66af"
+  },
+  "environment": {
+    "python_version": "3.8.10",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "model_name": "qwen-plus",
+    "endpoint_host": "https://dashscope.aliyuncs.com"
+  },
+  "cases": [
+    {
+      "case_id": "GEN0001",
+      "start_time": "2026-11-07T17:11:42+08:00",
+      "source": "dashscope",
+      "calls": 1,
+      "attempts": 1,
+      "rule_fixes": [
+        "review_items 按缺失项自动补齐"
+      ],
+      "problems_before": 1,
+      "problems_after": 1,
+      "status": "success",
+      "prompt_version": "p1-v1",
+      "seed": 42,
+      "elapsed_sec": 12.979,
+      "end_time": "2026-11-07T17:11:55+08:00"
+    },
+    {
+      "case_id": "GEN0002",
+      "start_time": "2026-11-07T17:11:55+08:00",
+      "source": "dashscope",
+      "calls": 1,
+      "attempts": 1,
+      "rule_fixes": [
+        "review_items 按缺失项自动补齐"
+      ],
+      "problems_before": 1,
+      "problems_after": 1,
+      "status": "success",
+      "prompt_version": "p1-v1",
+      "seed": 42,
+      "elapsed_sec": 15.919,
+      "end_time": "2026-11-07T17:12:10+08:00"
+    },
+    {
+      "case_id": "GEN0003",
+      "start_time": "2026-11-07T17:12:10+08:00",
+      "source": "dashscope",
+      "calls": 1,
+      "attempts": 1,
+      "rule_fixes": [
+        "review_items 按缺失项自动补齐"
+      ],
+      "problems_before": 1,
+      "problems_after": 1,
+      "status": "success",
+      "prompt_version": "p1-v1",
+      "seed": 42,
+      "elapsed_sec": 13.999,
+      "end_time": "2026-11-07T17:12:24+08:00"
+    },
+    {
+      "case_id": "GEN0004",
+      "start_time": "2026-11-07T17:12:24+08:00",
+      "source": "dashscope",
+      "calls": 1,
+      "attempts": 1,
+      "rule_fixes": [],
+      "problems_before": 1,
+      "problems_after": 1,
+      "status": "success",
+      "prompt_version": "p1-v1",
+      "seed": 42,
+      "elapsed_sec": 14.388,
+      "end_time": "2026-11-07T17:12:39+08:00"
+    },
+    {
+      "case_id": "GEN0005",
+      "start_time": "2026-11-07T17:12:39+08:00",
+      "source": "dashscope",
+      "calls": 1,
+      "attempts": 1,
+      "rule_fixes": [
+        "diagnostic_discussion 中疑似改写的词替换为“不详”"
+      ],
+      "problems_before": 2,
+      "problems_after": 1,
+      "status": "success",
+      "prompt_version": "p1-v1",
+      "seed": 42,
+      "elapsed_sec": 13.48,
+      "end_time": "2026-11-07T17:12:52+08:00"
+    },
+    {
+      "case_id": "GEN0006",
+      "start_time": "2026-11-07T17:12:52+08:00",
+      "source": "dashscope",
+      "calls": 1,
+      "attempts": 1,
+      "rule_fixes": [
+        "diagnostic_discussion 中疑似改写的词替换为“不详”",
+        "review_items 按缺失项自动补齐"
+      ],
+      "problems_before": 2,
+      "problems_after": 1,
+      "status": "success",
+      "prompt_version": "p1-v1",
+      "seed": 42,
+      "elapsed_sec": 14.002,
+      "end_time": "2026-11-07T17:13:06+08:00"
+    },
+    {
+      "case_id": "GEN0007",
+      "start_time": "2026-11-07T17:13:06+08:00",
+      "source": "dashscope",
+      "calls": 1,
+      "attempts": 1,
+      "rule_fixes": [],
+      "problems_before": 1,
+      "problems_after": 1,
+      "status": "success",
+      "prompt_version": "p1-v1",
+      "seed": 42,
+      "elapsed_sec": 13.729,
+      "end_time": "2026-11-07T17:13:20+08:00"
+    },
+    {
+      "case_id": "GEN0008",
+      "start_time": "2026-11-07T17:13:20+08:00",
+      "source": "dashscope",
+      "calls": 1,
+      "attempts": 1,
+      "rule_fixes": [
+        "review_items 按缺失项自动补齐"
+      ],
+      "problems_before": 1,
+      "problems_after": 1,
+      "status": "success",
+      "prompt_version": "p1-v1",
+      "seed": 42,
+      "elapsed_sec": 14.779,
+      "end_time": "2026-11-07T17:13:35+08:00"
+    }
+  ],
+  "summary": {
+    "total": 8,
+    "success": 8,
+    "failed": 0,
+    "offline_cases": 0,
+    "total_calls": 8
+  }
+}

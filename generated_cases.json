@@ -1,0 +1,202 @@
+[
+  {
+    "case_id": "GEN0001",
+    "record_cutoff": "T0",
+    "sources": [
+      {
+        "source_id": "S01",
+        "content": "男，81 岁，乏力 3 天；伴活动耐力下降、食欲下降"
+      },
+      {
+        "source_id": "S02",
+        "content": "体格检查：指甲苍白，结膜苍白；未见水肿；未提供脉率"
+      },
+      {
+        "source_id": "S03",
+        "content": "辅助检查：网织红细胞百分比 1.6%"
+      },
+      {
+        "source_id": "S04",
+        "content": "家族史未提供，余无特殊"
+      },
+      {
+        "source_id": "S05",
+        "content": "入院初步判断：初步考虑上述症状相关疾病可能"
+      }
+    ]
+  },
+  {
+    "case_id": "GEN0002",
+    "record_cutoff": "T0",
+    "sources": [
+      {
+        "source_id": "S01",
+        "content": "男，31 岁，眼睑水肿 1 周；伴泡沫尿、腰酸"
+      },
+      {
+        "source_id": "S02",
+        "content": "体格检查：血压偏高，双下肢凹陷性水肿；未见皮疹；未提供尿量"
+      },
+      {
+        "source_id": "S03",
+        "content": "辅助检查：肌酐 202μmol/L；尿素氮 4.2mmol/L；尿蛋白 阴性"
+      },
+      {
+        "source_id": "S04",
+        "content": "胸部影像不详；血培养未提供"
+      },
+      {
+        "source_id": "S05",
+        "content": "入院初步判断：原因待查"
+      }
+    ]
+  },
+  {
+    "case_id": "GEN0003",
+    "record_cutoff": "T0",
+    "sources": [
+      {
+        "source_id": "S01",
+        "content": "男，54 岁，心悸 2 周；伴双下肢水肿、夜间不能平卧"
+      },
+      {
+        "source_id": "S02",
+        "content": "体格检查：颈静脉无怒张，心率偏快；未见水肿；未提供呼吸频率"
+      },
+      {
+        "source_id": "S03",
+        "content": "辅助检查：肌钙蛋白 1.06ng/mL"
+      },
+      {
+        "source_id": "S04",
+        "content": "肾功能基线未提供"
+      }
+    ]
+  },
+  {
+    "case_id": "GEN0004",
+    "record_cutoff": "T0",
+    "sources": [
+      {
+        "source_id": "S01",
+        "content": "女，79 岁，活动后气促 3 天；伴双下肢水肿、夜间不能平卧"
+      },
+      {
+        "source_id": "S02",
+        "content": "体格检查：颈静脉无怒张，心率偏快；未闻及明显干湿啰音"
+      },
+      {
+        "source_id": "S03",
+        "content": "辅助检查：肌钙蛋白 2.22ng/mL；肌酐 150μmol/L；B型利钠肽 1694pg/mL"
+      },
+      {
+        "source_id": "S04",
+        "content": "肾功能基线未提供"
+      },
+      {
+        "source_id": "S05",
+        "content": "入院初步判断：待进一步明确"
+      }
+    ]
+  },
+  {
+    "case_id": "GEN0005",
+    "record_cutoff": "T0",
+    "sources": [
+      {
+        "source_id": "S01",
+        "content": "男，73 岁，尿量减少 2 周；伴泡沫尿、腰酸"
+      },
+      {
+        "source_id": "S02",
+        "content": "体格检查：血压偏高，眼睑水肿"
+      },
+      {
+        "source_id": "S03",
+        "content": "辅助检查：肌酐 82μmol/L；尿蛋白 阴性"
+      },
+      {
+        "source_id": "S04",
+        "content": "甲状腺功能、血培养未提供"
+      },
+      {
+        "source_id": "S05",
+        "content": "入院初步判断：初步考虑上述症状相关疾病可能"
+      }
+    ]
+  },
+  {
+    "case_id": "GEN0006",
+    "record_cutoff": "T0",
+    "sources": [
+      {
+        "source_id": "S01",
+        "content": "女，42 岁，乏力 3 个月；伴腰酸、泡沫尿"
+      },
+      {
+        "source_id": "S02",
+        "content": "体格检查：血压偏高，眼睑水肿；未见水肿；未提供体重变化"
+      },
+      {
+        "source_id": "S03",
+        "content": "辅助检查：肌酐 78μmol/L；尿蛋白 阴性"
+      },
+      {
+        "source_id": "S04",
+        "content": "既往病史、用药史、糖化血红蛋白未提供"
+      }
+    ]
+  },
+  {
+    "case_id": "GEN0007",
+    "record_cutoff": "T0",
+    "sources": [
+      {
+        "source_id": "S01",
+        "content": "男，21 岁，尿量减少 1 个月；伴泡沫尿、腰酸"
+      },
+      {
+        "source_id": "S02",
+        "content": "体格检查：血压偏高，眼睑水肿；未见明显出血表现"
+      },
+      {
+        "source_id": "S03",
+        "content": "辅助检查：尿素氮 8.9mmol/L；尿蛋白 阴性"
+      },
+      {
+        "source_id": "S04",
+        "content": "胸部影像不详；甲状腺功能未提供"
+      },
+      {
+        "source_id": "S05",
+        "content": "入院初步判断：初步考虑上述症状相关疾病可能"
+      }
+    ]
+  },
+  {
+    "case_id": "GEN0008",
+    "record_cutoff": "T0",
+    "sources": [
+      {
+        "source_id": "S01",
+        "content": "男，30 岁，乏力 2 周；伴腰酸、泡沫尿"
+      },
+      {
+        "source_id": "S02",
+        "content": "体格检查：血压偏高，眼睑水肿；未提供脉率"
+      },
+      {
+        "source_id": "S03",
+        "content": "辅助检查：尿蛋白 阳性；尿素氮 18.4mmol/L；肌酐 316μmol/L"
+      },
+      {
+        "source_id": "S04",
+        "content": "肾功能基线、家族史、甲状腺功能未提供"
+      },
+      {
+        "source_id": "S05",
+        "content": "入院初步判断：原因待查"
+      }
+    ]
+  }
+]
